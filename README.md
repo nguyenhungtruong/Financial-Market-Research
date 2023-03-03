@@ -1,1 +1,1 @@
-# Financial-Market-Research
+# Financial Market Research
